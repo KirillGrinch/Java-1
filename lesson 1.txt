@@ -1,3 +1,5 @@
+      // 1 и 2 задание
+
 class HomeWorkApp {
      public static void main(String[] args) {
          printThreeWords ();
@@ -7,3 +9,16 @@ class HomeWorkApp {
          System.out.println("Banana");
          System.out.println("Apple");
      }
+
+     // 3 задание
+
+class HomeWorkApp {
+     public static void main(String[] args) {
+         checkHomework ();
+     }
+     public static void checkHomework (){
+         int a = 10;
+         int b = 20;
+         int c = a + b;
+         System.out.println(c);
+         // Сумма положительная
